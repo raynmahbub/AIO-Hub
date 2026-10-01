@@ -1,10 +1,358 @@
 {
-  "generatedAt": "2026-09-17T22:33:46.555Z",
+  "generatedAt": "2026-10-01T12:28:11.284Z",
   "sources": [
+    "GitHub",
+    "GitLab",
     "npm",
+    "Docker Hub",
+    "Hacker News",
     "PyPI"
   ],
   "items": [
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "tags": [
+        "awesome-list",
+        "free",
+        "programming",
+        "tutorial-code",
+        "tutorial-exercises",
+        "tutorials",
+        "Markdown"
+      ],
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "popularity": 550984,
+      "source": "GitHub",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "tags": [
+        "awesome",
+        "awesome-list",
+        "lists",
+        "resources",
+        "unicorns"
+      ],
+      "url": "https://github.com/sindresorhus/awesome",
+      "popularity": 513053,
+      "source": "GitHub",
+      "category": "design",
+      "score": 100
+    },
+    {
+      "name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "tags": [
+        "api",
+        "apis",
+        "dataset",
+        "development",
+        "free",
+        "list",
+        "lists",
+        "open-source",
+        "public",
+        "public-api",
+        "public-apis",
+        "resources",
+        "software",
+        "Python"
+      ],
+      "url": "https://github.com/public-apis/public-apis",
+      "popularity": 484996,
+      "source": "GitHub",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "tags": [
+        "careers",
+        "certification",
+        "community",
+        "curriculum",
+        "d3",
+        "education",
+        "freecodecamp",
+        "javascript",
+        "learn-to-code",
+        "math",
+        "nodejs",
+        "nonprofits",
+        "programming",
+        "react",
+        "teachers",
+        "TypeScript"
+      ],
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "popularity": 456584,
+      "source": "GitHub",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "tags": [
+        "books",
+        "education",
+        "hacktoberfest",
+        "list",
+        "resource",
+        "Python"
+      ],
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "popularity": 398241,
+      "source": "GitHub",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "tags": [
+        "ai",
+        "assistant",
+        "crustacean",
+        "molty",
+        "openclaw",
+        "own-your-data",
+        "personal",
+        "TypeScript"
+      ],
+      "url": "https://github.com/openclaw/openclaw",
+      "popularity": 391121,
+      "source": "GitHub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "tags": [
+        "design",
+        "design-patterns",
+        "design-system",
+        "development",
+        "interview",
+        "interview-practice",
+        "interview-questions",
+        "programming",
+        "python",
+        "system",
+        "web",
+        "web-application",
+        "webapp",
+        "Python"
+      ],
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "popularity": 372737,
+      "source": "GitHub",
+      "category": "design",
+      "score": 100
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "tags": [
+        "angular-roadmap",
+        "backend-roadmap",
+        "blockchain-roadmap",
+        "computer-science",
+        "dba-roadmap",
+        "developer-roadmap",
+        "devops-roadmap",
+        "frontend-roadmap",
+        "go-roadmap",
+        "java-roadmap",
+        "javascript-roadmap",
+        "nodejs-roadmap",
+        "python-roadmap",
+        "qa-roadmap",
+        "react-roadmap",
+        "roadmap",
+        "software-architect-roadmap",
+        "vue-roadmap",
+        "TypeScript"
+      ],
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "popularity": 368639,
+      "source": "GitHub",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "tags": [
+        "algorithm",
+        "algorithms",
+        "coding-interview",
+        "coding-interviews",
+        "computer-science",
+        "data-structures",
+        "interview",
+        "interview-prep",
+        "interview-preparation",
+        "programming-interviews",
+        "software-engineering",
+        "study-plan"
+      ],
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "popularity": 362183,
+      "source": "GitHub",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "vinta/awesome-python",
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "tags": [
+        "awesome",
+        "awesome-list",
+        "python",
+        "python-frameworks",
+        "python-libraries",
+        "python-tools",
+        "Python"
+      ],
+      "url": "https://github.com/vinta/awesome-python",
+      "popularity": 324450,
+      "source": "GitHub",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "tags": [
+        "awesome",
+        "awesome-list",
+        "cloud",
+        "free-software",
+        "hosting",
+        "privacy",
+        "self-hosted",
+        "selfhosted"
+      ],
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "popularity": 323084,
+      "source": "GitHub",
+      "category": "privacy",
+      "score": 100
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "tags": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers",
+        "Shell"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "popularity": 293686,
+      "source": "GitHub",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "tags": [
+        "beginner-project",
+        "cpp",
+        "golang",
+        "javascript",
+        "project",
+        "python",
+        "tutorial",
+        "webdevelopment",
+        "Python"
+      ],
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "popularity": 285480,
+      "source": "GitHub",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "996icu/996.ICU",
+      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+      "tags": [],
+      "url": "https://github.com/996icu/996.ICU",
+      "popularity": 277258,
+      "source": "GitHub",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "tags": [
+        "Shell"
+      ],
+      "url": "https://github.com/mattpocock/skills",
+      "popularity": 273422,
+      "source": "GitHub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "CalcProgrammer1/OpenRGB",
+      "description": "Open source RGB lighting control that doesn't depend on manufacturer software.  For Windows, Linux, MacOS.\r\n\r\nSupports a wide variety of RGB components, peripherals, accessories, and lights across many manufacturers.\r\n\r\nSee the README or https://openrgb.org for more information.\r\n",
+      "tags": [
+        "ASUS",
+        "Corsair",
+        "Gigabyte",
+        "MSI",
+        "hacktoberfest",
+        "lighting",
+        "linux",
+        "logitech",
+        "macos",
+        "nzxt",
+        "razer",
+        "rgb",
+        "windows"
+      ],
+      "url": "https://gitlab.com/CalcProgrammer1/OpenRGB",
+      "popularity": 3488,
+      "source": "GitLab",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "veloren/veloren",
+      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
+      "tags": [
+        "GPL",
+        "free",
+        "game",
+        "gamedev",
+        "hacktoberfest",
+        "libre",
+        "open",
+        "rust",
+        "source",
+        "voxel"
+      ],
+      "url": "https://gitlab.com/veloren/veloren",
+      "popularity": 2399,
+      "source": "GitLab",
+      "category": "media",
+      "score": 100
+    },
     {
       "name": "chalk",
       "description": "Terminal string styling done right",
@@ -38,25 +386,6 @@
       "score": 100
     },
     {
-      "name": "cliui",
-      "description": "easily create complex multi-column command-line-interfaces",
-      "tags": [
-        "cli",
-        "command-line",
-        "layout",
-        "design",
-        "console",
-        "wrap",
-        "table",
-        "JavaScript"
-      ],
-      "url": "https://www.npmjs.com/package/cliui",
-      "popularity": 100000,
-      "source": "npm",
-      "category": "developer",
-      "score": 100
-    },
-    {
       "name": "commander",
       "description": "the complete solution for node.js command-line programs",
       "tags": [
@@ -71,6 +400,25 @@
         "JavaScript"
       ],
       "url": "https://www.npmjs.com/package/commander",
+      "popularity": 100000,
+      "source": "npm",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "cliui",
+      "description": "easily create complex multi-column command-line-interfaces",
+      "tags": [
+        "cli",
+        "command-line",
+        "layout",
+        "design",
+        "console",
+        "wrap",
+        "table",
+        "JavaScript"
+      ],
+      "url": "https://www.npmjs.com/package/cliui",
       "popularity": 100000,
       "source": "npm",
       "category": "developer",
@@ -103,38 +451,6 @@
         "JavaScript"
       ],
       "url": "https://www.npmjs.com/package/ansi-styles",
-      "popularity": 100000,
-      "source": "npm",
-      "category": "developer",
-      "score": 100
-    },
-    {
-      "name": "supports-color",
-      "description": "Detect whether a terminal supports color",
-      "tags": [
-        "color",
-        "colour",
-        "colors",
-        "terminal",
-        "console",
-        "cli",
-        "ansi",
-        "styles",
-        "tty",
-        "rgb",
-        "256",
-        "shell",
-        "xterm",
-        "command-line",
-        "support",
-        "supports",
-        "capability",
-        "detect",
-        "truecolor",
-        "16m",
-        "JavaScript"
-      ],
-      "url": "https://www.npmjs.com/package/supports-color",
       "popularity": 100000,
       "source": "npm",
       "category": "developer",
@@ -215,39 +531,61 @@
       "score": 100
     },
     {
-      "name": "ansi-escapes",
-      "description": "ANSI escape codes for manipulating the terminal",
+      "name": "supports-color",
+      "description": "Detect whether a terminal supports color",
       "tags": [
-        "ansi",
+        "color",
+        "colour",
+        "colors",
         "terminal",
         "console",
         "cli",
-        "string",
+        "ansi",
+        "styles",
         "tty",
-        "escape",
-        "escapes",
-        "formatting",
+        "rgb",
+        "256",
         "shell",
         "xterm",
-        "log",
-        "logging",
         "command-line",
-        "text",
-        "vt100",
-        "sequence",
-        "control",
-        "code",
-        "codes",
-        "cursor",
-        "iterm",
-        "iterm2",
-        "clear",
-        "screen",
-        "erase",
-        "scrollback",
+        "support",
+        "supports",
+        "capability",
+        "detect",
+        "truecolor",
+        "16m",
         "JavaScript"
       ],
-      "url": "https://www.npmjs.com/package/ansi-escapes",
+      "url": "https://www.npmjs.com/package/supports-color",
+      "popularity": 100000,
+      "source": "npm",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "has-flag",
+      "description": "Check if argv has a specific flag",
+      "tags": [
+        "has",
+        "check",
+        "detect",
+        "contains",
+        "find",
+        "flag",
+        "cli",
+        "command-line",
+        "argv",
+        "process",
+        "arg",
+        "args",
+        "argument",
+        "arguments",
+        "getopt",
+        "minimist",
+        "optimist",
+        "JavaScript"
+      ],
+      "url": "https://www.npmjs.com/package/has-flag",
       "popularity": 100000,
       "source": "npm",
       "category": "developer",
@@ -291,29 +629,17 @@
       "score": 100
     },
     {
-      "name": "has-flag",
-      "description": "Check if argv has a specific flag",
+      "name": "argparse",
+      "description": "CLI arguments parser. Native port of python's argparse.",
       "tags": [
-        "has",
-        "check",
-        "detect",
-        "contains",
-        "find",
-        "flag",
         "cli",
-        "command-line",
-        "argv",
-        "process",
-        "arg",
+        "parser",
+        "argparse",
+        "option",
         "args",
-        "argument",
-        "arguments",
-        "getopt",
-        "minimist",
-        "optimist",
         "JavaScript"
       ],
-      "url": "https://www.npmjs.com/package/has-flag",
+      "url": "https://www.npmjs.com/package/argparse",
       "popularity": 100000,
       "source": "npm",
       "category": "developer",
@@ -337,17 +663,58 @@
       "score": 100
     },
     {
-      "name": "argparse",
-      "description": "CLI arguments parser. Native port of python's argparse.",
+      "name": "yargs",
+      "description": "yargs the modern, pirate-themed, successor to optimist.",
       "tags": [
-        "cli",
-        "parser",
-        "argparse",
-        "option",
+        "argument",
         "args",
+        "option",
+        "parser",
+        "parsing",
+        "cli",
+        "command",
         "JavaScript"
       ],
-      "url": "https://www.npmjs.com/package/argparse",
+      "url": "https://www.npmjs.com/package/yargs",
+      "popularity": 100000,
+      "source": "npm",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "ansi-escapes",
+      "description": "ANSI escape codes for manipulating the terminal",
+      "tags": [
+        "ansi",
+        "terminal",
+        "console",
+        "cli",
+        "string",
+        "tty",
+        "escape",
+        "escapes",
+        "formatting",
+        "shell",
+        "xterm",
+        "log",
+        "logging",
+        "command-line",
+        "text",
+        "vt100",
+        "sequence",
+        "control",
+        "code",
+        "codes",
+        "cursor",
+        "iterm",
+        "iterm2",
+        "clear",
+        "screen",
+        "erase",
+        "scrollback",
+        "JavaScript"
+      ],
+      "url": "https://www.npmjs.com/package/ansi-escapes",
       "popularity": 100000,
       "source": "npm",
       "category": "developer",
@@ -369,25 +736,6 @@
         "JavaScript"
       ],
       "url": "https://www.npmjs.com/package/yargs-parser",
-      "popularity": 100000,
-      "source": "npm",
-      "category": "developer",
-      "score": 100
-    },
-    {
-      "name": "yargs",
-      "description": "yargs the modern, pirate-themed, successor to optimist.",
-      "tags": [
-        "argument",
-        "args",
-        "option",
-        "parser",
-        "parsing",
-        "cli",
-        "command",
-        "JavaScript"
-      ],
-      "url": "https://www.npmjs.com/package/yargs",
       "popularity": 100000,
       "source": "npm",
       "category": "developer",
@@ -416,6 +764,269 @@
       "score": 100
     },
     {
+      "name": "bitnami/kubectl",
+      "description": "Bitnami Secure Image for kubectl",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/bitnami/kubectl",
+      "popularity": 5373190142,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "docker",
+      "description": "Docker in Docker! (commonly known as \"dind\")",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/docker",
+      "popularity": 3608608710,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/moby/buildkit",
+      "popularity": 1966290142,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "amazon/aws-cli",
+      "description": "Universal Command Line Interface for Amazon Web Services",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/amazon/aws-cli",
+      "popularity": 1528887325,
+      "source": "Docker Hub",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "otel/opentelemetry-collector-contrib",
+      "description": "The OpenTelemetry Collector (Contrib) Distribution.",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/otel/opentelemetry-collector-contrib",
+      "popularity": 1358251411,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "docker/dockerfile",
+      "description": "Official Dockerfile frontend images that enable building Dockerfiles with BuildKit",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/docker/dockerfile",
+      "popularity": 891865536,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "bash",
+      "description": "Bash is the GNU Project's Bourne Again SHell",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/bash",
+      "popularity": 589199271,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "hashicorp/terraform",
+      "description": "Automatic builds of Terraform. See README for more use and info.",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/hashicorp/terraform",
+      "popularity": 495078841,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "amir20/dozzle",
+      "description": "Dozzle is a real-time log viewer for docker containers.",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/amir20/dozzle",
+      "popularity": 347920213,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "apteno/alpine-jq",
+      "description": "Weekly build of alpine image with curl, wget and jq",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/apteno/alpine-jq",
+      "popularity": 316745353,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "locustio/locust",
+      "description": "Official Locust build",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/locustio/locust",
+      "popularity": 284986730,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "buildpack-deps",
+      "description": "A collection of common build dependencies used for installing various modules, e.g., gems.",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/buildpack-deps",
+      "popularity": 261632382,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "composer",
+      "description": "Composer is a dependency manager written in and for PHP.",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/composer",
+      "popularity": 236522180,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "verdaccio/verdaccio",
+      "description": "Verdaccio Official Docker Image: A lightweight private Node.js proxy registry.",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/verdaccio/verdaccio",
+      "popularity": 226538660,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "prefecthq/prefect",
+      "description": "Prefect is a workflow orchestration framework for building data pipelines in Python.",
+      "tags": [
+        "container",
+        "self-hosted"
+      ],
+      "url": "https://hub.docker.com/r/prefecthq/prefect",
+      "popularity": 225752988,
+      "source": "Docker Hub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "inkscape/inkscape",
+      "description": "Inkscape vector image editor",
+      "tags": [
+        "C++",
+        "GTK4",
+        "gtkmm",
+        "hacktoberfest",
+        "svg",
+        "vectorgraphics"
+      ],
+      "url": "https://gitlab.com/inkscape/inkscape",
+      "popularity": 4008,
+      "source": "GitLab",
+      "category": "developer",
+      "score": 99
+    },
+    {
+      "name": "NickBusey/HomelabOS",
+      "description": "Your very own offline-first privacy-centric open-source data-center! https://homelabos.com/",
+      "tags": [
+        "ansible",
+        "automation",
+        "docker",
+        "homelab",
+        "offline",
+        "personal",
+        "privacy",
+        "selfhosted"
+      ],
+      "url": "https://gitlab.com/NickBusey/HomelabOS",
+      "popularity": 1289,
+      "source": "GitLab",
+      "category": "ai",
+      "score": 99
+    },
+    {
+      "name": "gitlab-org/gitlab",
+      "description": "GitLab is the open-source DevSecOps platform that provides a complete software development lifecycle toolchain including source control, CI/CD, security scanning, and project management in a single application.",
+      "tags": [
+        "hacktoberfest",
+        "javascript",
+        "ruby",
+        "vue.js"
+      ],
+      "url": "https://gitlab.com/gitlab-org/gitlab",
+      "popularity": 6148,
+      "source": "GitLab",
+      "category": "developer",
+      "score": 95
+    },
+    {
+      "name": "wireshark/wireshark",
+      "description": "Wireshark's official code repository. You can keep the releases coming by donating at https://wiresharkfoundation.org/donate/.",
+      "tags": [
+        "network analysis",
+        "packet capture",
+        "protocol analysis",
+        "stratoshark",
+        "tshark",
+        "wireshark"
+      ],
+      "url": "https://gitlab.com/wireshark/wireshark",
+      "popularity": 1642,
+      "source": "GitLab",
+      "category": "developer",
+      "score": 95
+    },
+    {
       "name": "ruff",
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "tags": [
@@ -434,6 +1045,35 @@
       "score": 95
     },
     {
+      "name": "gitlab-org/gitlab-foss",
+      "description": "GitLab FOSS is a read-only mirror of GitLab, with all proprietary code removed.\n\nThis project was previously used to host GitLab Community Edition, but all development has now moved to https://gitlab.com/gitlab-org/gitlab.\n",
+      "tags": [
+        "Canonical",
+        "hacktoberfest",
+        "infra-mgmt Managed"
+      ],
+      "url": "https://gitlab.com/gitlab-org/gitlab-foss",
+      "popularity": 7176,
+      "source": "GitLab",
+      "category": "developer",
+      "score": 93
+    },
+    {
+      "name": "fdroid/fdroidclient",
+      "description": "Android client application",
+      "tags": [
+        "android",
+        "app store",
+        "fdroid",
+        "repository"
+      ],
+      "url": "https://gitlab.com/fdroid/fdroidclient",
+      "popularity": 2675,
+      "source": "GitLab",
+      "category": "developer",
+      "score": 91
+    },
+    {
       "name": "gradio",
       "description": "Python library for easily interacting with trained machine learning models",
       "tags": [
@@ -448,6 +1088,20 @@
       "source": "PyPI",
       "category": "ai",
       "score": 89
+    },
+    {
+      "name": "baserow/baserow",
+      "description": "This is a mirror repository. Baserow has been migrated to GitHub. Issues, pull requests, code, and other activity will be available from there. https://github.com/baserow/baserow",
+      "tags": [
+        "airtable alternative",
+        "no-code",
+        "online database"
+      ],
+      "url": "https://gitlab.com/baserow/baserow",
+      "popularity": 2265,
+      "source": "GitLab",
+      "category": "developer",
+      "score": 87
     },
     {
       "name": "uv",
@@ -480,52 +1134,30 @@
       "score": 86
     },
     {
-      "name": "streamlit",
-      "description": "A faster way to build and share data apps",
+      "name": "gitlab-org/gitlab-runner",
+      "description": "GitLab Runner is the open source project that is used to run your CI/CD jobs and send the results back to GitLab",
       "tags": [
-        "Python"
+        "golang",
+        "hacktoberfest"
       ],
-      "url": "https://pypi.org/project/streamlit/",
-      "popularity": 1000,
-      "source": "PyPI",
-      "category": "media",
-      "score": 77
+      "url": "https://gitlab.com/gitlab-org/gitlab-runner",
+      "popularity": 2572,
+      "source": "GitLab",
+      "category": "developer",
+      "score": 85
     },
     {
-      "name": "fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "name": "AuroraOSS/AuroraStore",
+      "description": "An unofficial FOSS client to Google Play.",
       "tags": [
-        "Python"
+        "android",
+        "kotlin"
       ],
-      "url": "https://pypi.org/project/fastapi/",
-      "popularity": 1000,
-      "source": "PyPI",
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore",
+      "popularity": 2262,
+      "source": "GitLab",
       "category": "developer",
-      "score": 77
-    },
-    {
-      "name": "pydantic",
-      "description": "Data validation using Python type hints",
-      "tags": [
-        "Python"
-      ],
-      "url": "https://pypi.org/project/pydantic/",
-      "popularity": 1000,
-      "source": "PyPI",
-      "category": "developer",
-      "score": 77
-    },
-    {
-      "name": "Django",
-      "description": "A high-level Python web framework that encourages rapid development and clean, pragmatic design.",
-      "tags": [
-        "Python"
-      ],
-      "url": "https://pypi.org/project/Django/",
-      "popularity": 1000,
-      "source": "PyPI",
-      "category": "developer",
-      "score": 77
+      "score": 84
     }
   ]
 }
