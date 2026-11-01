@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:28:11.284Z",
+  "generatedAt": "2026-11-01T12:41:29.454Z",
   "sources": [
     "GitHub",
     "GitLab",
@@ -22,7 +22,7 @@
         "Markdown"
       ],
       "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "popularity": 550984,
+      "popularity": 558011,
       "source": "GitHub",
       "category": "developer",
       "score": 100
@@ -38,7 +38,7 @@
         "unicorns"
       ],
       "url": "https://github.com/sindresorhus/awesome",
-      "popularity": 513053,
+      "popularity": 528256,
       "source": "GitHub",
       "category": "design",
       "score": 100
@@ -63,7 +63,7 @@
         "Python"
       ],
       "url": "https://github.com/public-apis/public-apis",
-      "popularity": 484996,
+      "popularity": 494021,
       "source": "GitHub",
       "category": "developer",
       "score": 100
@@ -90,7 +90,39 @@
         "TypeScript"
       ],
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "popularity": 456584,
+      "popularity": 458349,
+      "source": "GitHub",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "tags": [
+        "agent-skills",
+        "ai",
+        "android",
+        "claude-code",
+        "cli",
+        "cpp",
+        "dsh-plugin",
+        "html",
+        "java",
+        "javascript",
+        "linux",
+        "mcp",
+        "nodejs",
+        "python",
+        "rea",
+        "react",
+        "rust",
+        "security",
+        "touhou",
+        "typescript",
+        "TypeScript"
+      ],
+      "url": "https://github.com/morluto/rea",
+      "popularity": 417124,
       "source": "GitHub",
       "category": "developer",
       "score": 100
@@ -107,7 +139,7 @@
         "Python"
       ],
       "url": "https://github.com/EbookFoundation/free-programming-books",
-      "popularity": 398241,
+      "popularity": 400649,
       "source": "GitHub",
       "category": "developer",
       "score": 100
@@ -126,7 +158,7 @@
         "TypeScript"
       ],
       "url": "https://github.com/openclaw/openclaw",
-      "popularity": 391121,
+      "popularity": 393611,
       "source": "GitHub",
       "category": "ai",
       "score": 100
@@ -151,7 +183,7 @@
         "Python"
       ],
       "url": "https://github.com/donnemartin/system-design-primer",
-      "popularity": 372737,
+      "popularity": 376394,
       "source": "GitHub",
       "category": "design",
       "score": 100
@@ -181,7 +213,7 @@
         "TypeScript"
       ],
       "url": "https://github.com/nilbuild/developer-roadmap",
-      "popularity": 368639,
+      "popularity": 370921,
       "source": "GitHub",
       "category": "developer",
       "score": 100
@@ -204,25 +236,7 @@
         "study-plan"
       ],
       "url": "https://github.com/jwasham/coding-interview-university",
-      "popularity": 362183,
-      "source": "GitHub",
-      "category": "developer",
-      "score": 100
-    },
-    {
-      "name": "vinta/awesome-python",
-      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-      "tags": [
-        "awesome",
-        "awesome-list",
-        "python",
-        "python-frameworks",
-        "python-libraries",
-        "python-tools",
-        "Python"
-      ],
-      "url": "https://github.com/vinta/awesome-python",
-      "popularity": 324450,
+      "popularity": 363645,
       "source": "GitHub",
       "category": "developer",
       "score": 100
@@ -241,9 +255,27 @@
         "selfhosted"
       ],
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-      "popularity": 323084,
+      "popularity": 332602,
       "source": "GitHub",
       "category": "privacy",
+      "score": 100
+    },
+    {
+      "name": "vinta/awesome-python",
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "tags": [
+        "awesome",
+        "awesome-list",
+        "python",
+        "python-frameworks",
+        "python-libraries",
+        "python-tools",
+        "Python"
+      ],
+      "url": "https://github.com/vinta/awesome-python",
+      "popularity": 331715,
+      "source": "GitHub",
+      "category": "developer",
       "score": 100
     },
     {
@@ -261,37 +293,7 @@
         "Shell"
       ],
       "url": "https://github.com/obra/superpowers",
-      "popularity": 293686,
-      "source": "GitHub",
-      "category": "developer",
-      "score": 100
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "description": "Curated list of project-based tutorials",
-      "tags": [
-        "beginner-project",
-        "cpp",
-        "golang",
-        "javascript",
-        "project",
-        "python",
-        "tutorial",
-        "webdevelopment",
-        "Python"
-      ],
-      "url": "https://github.com/practical-tutorials/project-based-learning",
-      "popularity": 285480,
-      "source": "GitHub",
-      "category": "developer",
-      "score": 100
-    },
-    {
-      "name": "996icu/996.ICU",
-      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
-      "tags": [],
-      "url": "https://github.com/996icu/996.ICU",
-      "popularity": 277258,
+      "popularity": 310348,
       "source": "GitHub",
       "category": "developer",
       "score": 100
@@ -303,7 +305,27 @@
         "Shell"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "popularity": 273422,
+      "popularity": 308878,
+      "source": "GitHub",
+      "category": "ai",
+      "score": 100
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "tags": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity",
+        "JavaScript"
+      ],
+      "url": "https://github.com/affaan-m/ECC",
+      "popularity": 294413,
       "source": "GitHub",
       "category": "ai",
       "score": 100
@@ -327,7 +349,7 @@
         "windows"
       ],
       "url": "https://gitlab.com/CalcProgrammer1/OpenRGB",
-      "popularity": 3488,
+      "popularity": 3505,
       "source": "GitLab",
       "category": "developer",
       "score": 100
@@ -348,7 +370,7 @@
         "voxel"
       ],
       "url": "https://gitlab.com/veloren/veloren",
-      "popularity": 2399,
+      "popularity": 2403,
       "source": "GitLab",
       "category": "media",
       "score": 100
@@ -386,45 +408,6 @@
       "score": 100
     },
     {
-      "name": "commander",
-      "description": "the complete solution for node.js command-line programs",
-      "tags": [
-        "commander",
-        "command",
-        "option",
-        "parser",
-        "cli",
-        "argument",
-        "args",
-        "argv",
-        "JavaScript"
-      ],
-      "url": "https://www.npmjs.com/package/commander",
-      "popularity": 100000,
-      "source": "npm",
-      "category": "developer",
-      "score": 100
-    },
-    {
-      "name": "cliui",
-      "description": "easily create complex multi-column command-line-interfaces",
-      "tags": [
-        "cli",
-        "command-line",
-        "layout",
-        "design",
-        "console",
-        "wrap",
-        "table",
-        "JavaScript"
-      ],
-      "url": "https://www.npmjs.com/package/cliui",
-      "popularity": 100000,
-      "source": "npm",
-      "category": "developer",
-      "score": 100
-    },
-    {
       "name": "ansi-styles",
       "description": "ANSI escape codes for styling strings in the terminal",
       "tags": [
@@ -451,6 +434,26 @@
         "JavaScript"
       ],
       "url": "https://www.npmjs.com/package/ansi-styles",
+      "popularity": 100000,
+      "source": "npm",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "commander",
+      "description": "the complete solution for node.js command-line programs",
+      "tags": [
+        "commander",
+        "command",
+        "option",
+        "parser",
+        "cli",
+        "argument",
+        "args",
+        "argv",
+        "JavaScript"
+      ],
+      "url": "https://www.npmjs.com/package/commander",
       "popularity": 100000,
       "source": "npm",
       "category": "developer",
@@ -563,29 +566,19 @@
       "score": 100
     },
     {
-      "name": "has-flag",
-      "description": "Check if argv has a specific flag",
+      "name": "cliui",
+      "description": "easily create complex multi-column command-line-interfaces",
       "tags": [
-        "has",
-        "check",
-        "detect",
-        "contains",
-        "find",
-        "flag",
         "cli",
         "command-line",
-        "argv",
-        "process",
-        "arg",
-        "args",
-        "argument",
-        "arguments",
-        "getopt",
-        "minimist",
-        "optimist",
+        "layout",
+        "design",
+        "console",
+        "wrap",
+        "table",
         "JavaScript"
       ],
-      "url": "https://www.npmjs.com/package/has-flag",
+      "url": "https://www.npmjs.com/package/cliui",
       "popularity": 100000,
       "source": "npm",
       "category": "developer",
@@ -629,6 +622,75 @@
       "score": 100
     },
     {
+      "name": "yargs-parser",
+      "description": "the mighty option parser used by yargs",
+      "tags": [
+        "argument",
+        "parser",
+        "yargs",
+        "command",
+        "cli",
+        "parsing",
+        "option",
+        "args",
+        "argument",
+        "JavaScript"
+      ],
+      "url": "https://www.npmjs.com/package/yargs-parser",
+      "popularity": 100000,
+      "source": "npm",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "yargs",
+      "description": "yargs the modern, pirate-themed, successor to optimist.",
+      "tags": [
+        "argument",
+        "args",
+        "option",
+        "parser",
+        "parsing",
+        "cli",
+        "command",
+        "JavaScript"
+      ],
+      "url": "https://www.npmjs.com/package/yargs",
+      "popularity": 100000,
+      "source": "npm",
+      "category": "developer",
+      "score": 100
+    },
+    {
+      "name": "has-flag",
+      "description": "Check if argv has a specific flag",
+      "tags": [
+        "has",
+        "check",
+        "detect",
+        "contains",
+        "find",
+        "flag",
+        "cli",
+        "command-line",
+        "argv",
+        "process",
+        "arg",
+        "args",
+        "argument",
+        "arguments",
+        "getopt",
+        "minimist",
+        "optimist",
+        "JavaScript"
+      ],
+      "url": "https://www.npmjs.com/package/has-flag",
+      "popularity": 100000,
+      "source": "npm",
+      "category": "developer",
+      "score": 100
+    },
+    {
       "name": "argparse",
       "description": "CLI arguments parser. Native port of python's argparse.",
       "tags": [
@@ -657,25 +719,6 @@
         "JavaScript"
       ],
       "url": "https://www.npmjs.com/package/picocolors",
-      "popularity": 100000,
-      "source": "npm",
-      "category": "developer",
-      "score": 100
-    },
-    {
-      "name": "yargs",
-      "description": "yargs the modern, pirate-themed, successor to optimist.",
-      "tags": [
-        "argument",
-        "args",
-        "option",
-        "parser",
-        "parsing",
-        "cli",
-        "command",
-        "JavaScript"
-      ],
-      "url": "https://www.npmjs.com/package/yargs",
       "popularity": 100000,
       "source": "npm",
       "category": "developer",
@@ -721,43 +764,20 @@
       "score": 100
     },
     {
-      "name": "yargs-parser",
-      "description": "the mighty option parser used by yargs",
+      "name": "rimraf",
+      "description": "A deep deletion module for node (like `rm -rf`)",
       "tags": [
-        "argument",
-        "parser",
-        "yargs",
-        "command",
+        "rm",
+        "rm -rf",
+        "rm -fr",
+        "remove",
+        "directory",
         "cli",
-        "parsing",
-        "option",
-        "args",
-        "argument",
+        "rmdir",
+        "recursive",
         "JavaScript"
       ],
-      "url": "https://www.npmjs.com/package/yargs-parser",
-      "popularity": 100000,
-      "source": "npm",
-      "category": "developer",
-      "score": 100
-    },
-    {
-      "name": "figures",
-      "description": "Unicode symbols with fallbacks for older terminals",
-      "tags": [
-        "unicode",
-        "cli",
-        "cmd",
-        "command-line",
-        "characters",
-        "symbol",
-        "symbols",
-        "figure",
-        "figures",
-        "fallback",
-        "JavaScript"
-      ],
-      "url": "https://www.npmjs.com/package/figures",
+      "url": "https://www.npmjs.com/package/rimraf",
       "popularity": 100000,
       "source": "npm",
       "category": "developer",
@@ -771,7 +791,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/bitnami/kubectl",
-      "popularity": 5373190142,
+      "popularity": 5386688939,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
@@ -784,7 +804,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/docker",
-      "popularity": 3608608710,
+      "popularity": 3649206662,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
@@ -797,7 +817,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/moby/buildkit",
-      "popularity": 1966290142,
+      "popularity": 2213572049,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
@@ -810,7 +830,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/amazon/aws-cli",
-      "popularity": 1528887325,
+      "popularity": 1554882862,
       "source": "Docker Hub",
       "category": "developer",
       "score": 100
@@ -823,7 +843,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/otel/opentelemetry-collector-contrib",
-      "popularity": 1358251411,
+      "popularity": 1402435448,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
@@ -836,7 +856,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/docker/dockerfile",
-      "popularity": 891865536,
+      "popularity": 992383617,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
@@ -849,7 +869,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/bash",
-      "popularity": 589199271,
+      "popularity": 592085341,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
@@ -862,7 +882,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/hashicorp/terraform",
-      "popularity": 495078841,
+      "popularity": 499834541,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
@@ -875,7 +895,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/amir20/dozzle",
-      "popularity": 347920213,
+      "popularity": 359024519,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
@@ -888,7 +908,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/apteno/alpine-jq",
-      "popularity": 316745353,
+      "popularity": 316801041,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
@@ -901,7 +921,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/locustio/locust",
-      "popularity": 284986730,
+      "popularity": 285261094,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
@@ -914,7 +934,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/buildpack-deps",
-      "popularity": 261632382,
+      "popularity": 263442443,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
@@ -927,22 +947,22 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/composer",
-      "popularity": 236522180,
+      "popularity": 246446046,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
     },
     {
-      "name": "verdaccio/verdaccio",
-      "description": "Verdaccio Official Docker Image: A lightweight private Node.js proxy registry.",
+      "name": "axllent/mailpit",
+      "description": "An email and SMTP testing tool with API for developers",
       "tags": [
         "container",
         "self-hosted"
       ],
-      "url": "https://hub.docker.com/r/verdaccio/verdaccio",
-      "popularity": 226538660,
+      "url": "https://hub.docker.com/r/axllent/mailpit",
+      "popularity": 235547753,
       "source": "Docker Hub",
-      "category": "ai",
+      "category": "developer",
       "score": 100
     },
     {
@@ -953,7 +973,7 @@
         "self-hosted"
       ],
       "url": "https://hub.docker.com/r/prefecthq/prefect",
-      "popularity": 225752988,
+      "popularity": 229271207,
       "source": "Docker Hub",
       "category": "ai",
       "score": 100
@@ -970,7 +990,7 @@
         "vectorgraphics"
       ],
       "url": "https://gitlab.com/inkscape/inkscape",
-      "popularity": 4008,
+      "popularity": 4020,
       "source": "GitLab",
       "category": "developer",
       "score": 99
@@ -989,7 +1009,7 @@
         "selfhosted"
       ],
       "url": "https://gitlab.com/NickBusey/HomelabOS",
-      "popularity": 1289,
+      "popularity": 1290,
       "source": "GitLab",
       "category": "ai",
       "score": 99
@@ -1004,7 +1024,7 @@
         "vue.js"
       ],
       "url": "https://gitlab.com/gitlab-org/gitlab",
-      "popularity": 6148,
+      "popularity": 6187,
       "source": "GitLab",
       "category": "developer",
       "score": 95
@@ -1021,7 +1041,7 @@
         "wireshark"
       ],
       "url": "https://gitlab.com/wireshark/wireshark",
-      "popularity": 1642,
+      "popularity": 1665,
       "source": "GitLab",
       "category": "developer",
       "score": 95
@@ -1053,7 +1073,7 @@
         "infra-mgmt Managed"
       ],
       "url": "https://gitlab.com/gitlab-org/gitlab-foss",
-      "popularity": 7176,
+      "popularity": 7175,
       "source": "GitLab",
       "category": "developer",
       "score": 93
@@ -1068,7 +1088,7 @@
         "repository"
       ],
       "url": "https://gitlab.com/fdroid/fdroidclient",
-      "popularity": 2675,
+      "popularity": 2687,
       "source": "GitLab",
       "category": "developer",
       "score": 91
@@ -1098,7 +1118,7 @@
         "online database"
       ],
       "url": "https://gitlab.com/baserow/baserow",
-      "popularity": 2265,
+      "popularity": 2264,
       "source": "GitLab",
       "category": "developer",
       "score": 87
@@ -1141,7 +1161,7 @@
         "hacktoberfest"
       ],
       "url": "https://gitlab.com/gitlab-org/gitlab-runner",
-      "popularity": 2572,
+      "popularity": 2583,
       "source": "GitLab",
       "category": "developer",
       "score": 85
@@ -1154,7 +1174,7 @@
         "kotlin"
       ],
       "url": "https://gitlab.com/AuroraOSS/AuroraStore",
-      "popularity": 2262,
+      "popularity": 2280,
       "source": "GitLab",
       "category": "developer",
       "score": 84
